@@ -218,5 +218,6 @@ body {
     .carousel-item {
       height: 40%;
       width: 50%;
+      top: 40%;
     }
   }
